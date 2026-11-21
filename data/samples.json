@@ -1,0 +1,416 @@
+[
+  {
+    "run": "die-A-0",
+    "process": "die-A",
+    "seen": "2026-08-01T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 23,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-1",
+    "process": "die-A",
+    "seen": "2026-08-04T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 26,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-2",
+    "process": "die-A",
+    "seen": "2026-08-07T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 28,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-3",
+    "process": "die-A",
+    "seen": "2026-08-10T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 31,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-4",
+    "process": "die-A",
+    "seen": "2026-08-13T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 33,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-5",
+    "process": "die-A",
+    "seen": "2026-08-16T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 19,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-6",
+    "process": "die-A",
+    "seen": "2026-08-19T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 22,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-7",
+    "process": "die-A",
+    "seen": "2026-08-22T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 32,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-8",
+    "process": "die-A",
+    "seen": "2026-08-25T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 35,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-9",
+    "process": "die-A",
+    "seen": "2026-08-28T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 37,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-10",
+    "process": "die-A",
+    "seen": "2026-08-31T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 22,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-11",
+    "process": "die-A",
+    "seen": "2026-09-03T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 25,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-12",
+    "process": "die-A",
+    "seen": "2026-09-06T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 27,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-A-13",
+    "process": "die-A",
+    "seen": "2026-09-09T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 30,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-0",
+    "process": "die-B",
+    "seen": "2026-08-01T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 22,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-1",
+    "process": "die-B",
+    "seen": "2026-08-04T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 24,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-2",
+    "process": "die-B",
+    "seen": "2026-08-07T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 26,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-3",
+    "process": "die-B",
+    "seen": "2026-08-10T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 29,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-4",
+    "process": "die-B",
+    "seen": "2026-08-13T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 30,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-5",
+    "process": "die-B",
+    "seen": "2026-08-16T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 24,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-6",
+    "process": "die-B",
+    "seen": "2026-08-19T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 27,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-7",
+    "process": "die-B",
+    "seen": "2026-08-22T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 30,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-8",
+    "process": "die-B",
+    "seen": "2026-08-25T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 33,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-9",
+    "process": "die-B",
+    "seen": "2026-08-28T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 35,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-10",
+    "process": "die-B",
+    "seen": "2026-08-31T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 21,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-11",
+    "process": "die-B",
+    "seen": "2026-09-03T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 23,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-12",
+    "process": "die-B",
+    "seen": "2026-09-06T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 25,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "die-B-13",
+    "process": "die-B",
+    "seen": "2026-09-09T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 27,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-0",
+    "process": "hand",
+    "seen": "2026-08-01T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 24,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-1",
+    "process": "hand",
+    "seen": "2026-08-04T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 27,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-2",
+    "process": "hand",
+    "seen": "2026-08-07T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 29,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-3",
+    "process": "hand",
+    "seen": "2026-08-10T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 32,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-4",
+    "process": "hand",
+    "seen": "2026-08-13T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 34,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-5",
+    "process": "hand",
+    "seen": "2026-08-16T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 20,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-6",
+    "process": "hand",
+    "seen": "2026-08-19T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 22,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-7",
+    "process": "hand",
+    "seen": "2026-08-22T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 25,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-8",
+    "process": "hand",
+    "seen": "2026-08-25T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 36,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-9",
+    "process": "hand",
+    "seen": "2026-08-28T09:00:00+08:00",
+    "sample": 42,
+    "accepted": 39,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-10",
+    "process": "hand",
+    "seen": "2026-08-31T09:00:00+08:00",
+    "sample": 26,
+    "accepted": 23,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-11",
+    "process": "hand",
+    "seen": "2026-09-03T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 26,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-12",
+    "process": "hand",
+    "seen": "2026-09-06T09:00:00+08:00",
+    "sample": 34,
+    "accepted": 28,
+    "rework": true,
+    "variant": "历史"
+  },
+  {
+    "run": "hand-13",
+    "process": "hand",
+    "seen": "2026-09-09T09:00:00+08:00",
+    "sample": 38,
+    "accepted": 31,
+    "rework": false,
+    "variant": "历史"
+  },
+  {
+    "run": "R-1",
+    "process": "die-A",
+    "seen": "2026-09-28T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 28,
+    "rework": false,
+    "variant": "霜白"
+  },
+  {
+    "run": "R-2",
+    "process": "die-B",
+    "seen": "2026-09-28T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 17,
+    "rework": true,
+    "variant": "青绿"
+  },
+  {
+    "run": "R-3",
+    "process": "die-A",
+    "seen": "2026-10-03T09:00:00+08:00",
+    "sample": 30,
+    "accepted": 24,
+    "rework": false,
+    "variant": "朱砂"
+  },
+  {
+    "run": "R-4",
+    "process": "die-B",
+    "seen": "2026-10-07T09:00:00+08:00",
+    "sample": 25,
+    "accepted": null,
+    "rework": true,
+    "variant": "青绿"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "supplier": "mold-co",
+    "tool": "D-7",
+    "window": "W1",
+    "starts": "2026-10-13",
+    "ends": "2026-10-23",
+    "units": 220
+  },
+  {
+    "supplier": "craft-co",
+    "tool": "D-7",
+    "window": "W2",
+    "starts": "2026-10-20",
+    "ends": "2026-10-29",
+    "units": 105
+  },
+  {
+    "supplier": "craft-co",
+    "tool": "D-9",
+    "window": "W2",
+    "starts": "2026-10-20",
+    "ends": "2026-10-29",
+    "units": 95
+  }
+]

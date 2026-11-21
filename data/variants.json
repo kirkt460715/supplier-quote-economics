@@ -1,0 +1,30 @@
+[
+  {
+    "variant": "霜白",
+    "preferred": "die-A",
+    "alt": "hand",
+    "tool": "D-7",
+    "intended_price": 8300
+  },
+  {
+    "variant": "朱砂",
+    "preferred": "die-A",
+    "alt": "die-B",
+    "tool": "D-7",
+    "intended_price": 9000
+  },
+  {
+    "variant": "青绿",
+    "preferred": "die-B",
+    "alt": "hand",
+    "tool": "D-7",
+    "intended_price": 9100
+  },
+  {
+    "variant": "木色",
+    "preferred": "hand",
+    "alt": null,
+    "tool": "D-9",
+    "intended_price": 10300
+  }
+]

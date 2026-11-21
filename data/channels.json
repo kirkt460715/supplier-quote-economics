@@ -1,0 +1,47 @@
+[
+  {
+    "channel": "dock",
+    "variant": "霜白",
+    "opens": "2026-10-30",
+    "cap": 90,
+    "minimum": 32,
+    "floor_margin": 0.3,
+    "commission_bps": 1200
+  },
+  {
+    "channel": "dock",
+    "variant": "朱砂",
+    "opens": "2026-10-30",
+    "cap": 65,
+    "minimum": 24,
+    "floor_margin": 0.28,
+    "commission_bps": 1200
+  },
+  {
+    "channel": "annex",
+    "variant": "青绿",
+    "opens": "2026-11-06",
+    "cap": 42,
+    "minimum": 20,
+    "floor_margin": 0.27,
+    "commission_bps": 1050
+  },
+  {
+    "channel": "annex",
+    "variant": "木色",
+    "opens": "2026-11-14",
+    "cap": 53,
+    "minimum": 19,
+    "floor_margin": 0.31,
+    "commission_bps": 1050
+  },
+  {
+    "channel": "lobby",
+    "variant": "朱砂",
+    "opens": "2026-11-13",
+    "cap": 35,
+    "minimum": 0,
+    "floor_margin": 0.26,
+    "commission_bps": 900
+  }
+]

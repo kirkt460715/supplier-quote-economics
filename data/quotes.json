@@ -1,0 +1,90 @@
+[
+  {
+    "quote": "QA",
+    "supplier": "mold-co",
+    "process": "die-A",
+    "tool": "D-7",
+    "window": "W1",
+    "first_delivery": "2026-10-27",
+    "fixed": 35000,
+    "tiers": [
+      [
+        60,
+        4100
+      ],
+      [
+        120,
+        3450
+      ],
+      [
+        180,
+        3130
+      ]
+    ],
+    "expires": "2026-10-07T18:00:00+08:00"
+  },
+  {
+    "quote": "QB",
+    "supplier": "mold-co",
+    "process": "die-B",
+    "tool": "D-7",
+    "window": "W1",
+    "first_delivery": "2026-11-01",
+    "fixed": 38000,
+    "tiers": [
+      [
+        50,
+        4700
+      ],
+      [
+        110,
+        3780
+      ],
+      [
+        170,
+        3010
+      ]
+    ],
+    "expires": "2026-10-10T18:00:00+08:00"
+  },
+  {
+    "quote": "QC",
+    "supplier": "craft-co",
+    "process": "hand",
+    "tool": "D-7",
+    "window": "W2",
+    "first_delivery": "2026-11-08",
+    "fixed": 40000,
+    "tiers": [
+      [
+        30,
+        5600
+      ],
+      [
+        75,
+        4810
+      ]
+    ],
+    "expires": "2026-10-10T12:00:00+08:00"
+  },
+  {
+    "quote": "QD",
+    "supplier": "craft-co",
+    "process": "hand",
+    "tool": "D-9",
+    "window": "W2",
+    "first_delivery": "2026-11-08",
+    "fixed": 30000,
+    "tiers": [
+      [
+        40,
+        5900
+      ],
+      [
+        80,
+        5300
+      ]
+    ],
+    "expires": "2026-10-12T12:00:00+08:00"
+  }
+]
