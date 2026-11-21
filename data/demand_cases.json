@@ -1,0 +1,92 @@
+[
+  {
+    "scenario": "保守",
+    "channel": "dock",
+    "variant": "霜白",
+    "expected": 45
+  },
+  {
+    "scenario": "保守",
+    "channel": "dock",
+    "variant": "朱砂",
+    "expected": 28
+  },
+  {
+    "scenario": "保守",
+    "channel": "annex",
+    "variant": "青绿",
+    "expected": 23
+  },
+  {
+    "scenario": "保守",
+    "channel": "annex",
+    "variant": "木色",
+    "expected": 21
+  },
+  {
+    "scenario": "保守",
+    "channel": "lobby",
+    "variant": "朱砂",
+    "expected": 4
+  },
+  {
+    "scenario": "常规",
+    "channel": "dock",
+    "variant": "霜白",
+    "expected": 71
+  },
+  {
+    "scenario": "常规",
+    "channel": "dock",
+    "variant": "朱砂",
+    "expected": 52
+  },
+  {
+    "scenario": "常规",
+    "channel": "annex",
+    "variant": "青绿",
+    "expected": 34
+  },
+  {
+    "scenario": "常规",
+    "channel": "annex",
+    "variant": "木色",
+    "expected": 37
+  },
+  {
+    "scenario": "常规",
+    "channel": "lobby",
+    "variant": "朱砂",
+    "expected": 19
+  },
+  {
+    "scenario": "旺季",
+    "channel": "dock",
+    "variant": "霜白",
+    "expected": 100
+  },
+  {
+    "scenario": "旺季",
+    "channel": "dock",
+    "variant": "朱砂",
+    "expected": 73
+  },
+  {
+    "scenario": "旺季",
+    "channel": "annex",
+    "variant": "青绿",
+    "expected": 58
+  },
+  {
+    "scenario": "旺季",
+    "channel": "annex",
+    "variant": "木色",
+    "expected": 65
+  },
+  {
+    "scenario": "旺季",
+    "channel": "lobby",
+    "variant": "朱砂",
+    "expected": 39
+  }
+]
